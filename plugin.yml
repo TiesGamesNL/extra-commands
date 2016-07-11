@@ -1,4 +1,4 @@
-name: RDCcmd
+name: RDCcommands
 main: rdccommands\Main
 version: 1.0
 api: [1.0.0]
