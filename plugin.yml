@@ -1,0 +1,57 @@
+name: RDCcmd
+main: rdccommands\Main
+version: 1.0
+api: [1.0.0]
+load: POSTWORLD
+author: Emiel2222
+description: Kits Plugin by Emiel2222.
+commands:
+ :
+  description:
+  usage: ""
+  permission: 
+ :
+  description: 
+  usage: ""
+  permission: 
+ :
+  description: 
+  usage: ""
+  permission: 
+ :
+  description: 
+  usage: ""
+  permission: 
+ :
+  description: 
+  usage: ""
+  permission: 
+ :
+  description: 
+  usage: ""
+  permission: 
+ :
+  description: 
+  usage: ""
+  permission: 
+ :
+  description: 
+  usage: ""
+  permission: 
+
+ :
+  default: op
+ 
+  default: op
+ 
+  default: op
+ 
+  default: op
+ 
+  default: true
+ 
+  default: true
+ 
+  default: true
+ 
+  default: op
